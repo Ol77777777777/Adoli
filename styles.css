@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-image: url('https://i.pinimg.com/5760fNKic.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.ads-container {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+}
+
